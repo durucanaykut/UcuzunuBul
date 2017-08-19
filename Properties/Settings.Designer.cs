@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UcuzunuBul.Properties
+namespace YazılımProjesi.Properties
 {
 
 

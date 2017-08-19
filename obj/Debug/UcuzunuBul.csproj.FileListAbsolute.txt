@@ -1,0 +1,16 @@
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\UcuzunuBul\obj\Debug\UcuzunuBul.csprojResolveAssemblyReference.cache
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\UcuzunuBul\obj\Debug\UcuzunuBul.Form1.resources
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\UcuzunuBul\obj\Debug\UcuzunuBul.Properties.Resources.resources
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\UcuzunuBul\obj\Debug\UcuzunuBul.csproj.GenerateResource.Cache
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\bin\Debug\UcuzunuBul.exe.config
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\bin\Debug\UcuzunuBul.exe
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\bin\Debug\UcuzunuBul.pdb
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\obj\Debug\UcuzunuBul.csprojResolveAssemblyReference.cache
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\obj\Debug\UcuzunuBul.Form1.resources
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\obj\Debug\UcuzunuBul.Properties.Resources.resources
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\obj\Debug\UcuzunuBul.csproj.GenerateResource.Cache
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\obj\Debug\UcuzunuBul.exe
+C:\Users\aykut\Documents\GitHub\UcuzunuBul\YazılımProjesi\obj\Debug\UcuzunuBul.pdb

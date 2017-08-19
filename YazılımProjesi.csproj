@@ -7,8 +7,8 @@
     <ProjectGuid>{8F13BF1F-D7BB-4D7A-8552-AFE26C0B4E7D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UcuzunuBul</RootNamespace>
-    <AssemblyName>UcuzunuBul</AssemblyName>
+    <RootNamespace>YazılımProjesi</RootNamespace>
+    <AssemblyName>YazılımProjesi</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -58,12 +58,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Hepsiburada.cs" />
+    <Compile Include="VatanComputer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sanalPazar.cs" />
     <Compile Include="Stringim.cs" />
-    <Compile Include="webdenal.cs" />
+    <Compile Include="Teknosa.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -75,7 +75,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
